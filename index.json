@@ -1,0 +1,123 @@
+{
+  "lastUpdated": "2026-08-16T15:04:10.012Z",
+  "totalItems": 29429,
+  "totalFiles": 23,
+  "maxPerFile": 1500,
+  "categories": [
+    {
+      "name": "Movies Part 1",
+      "file": "movies_part_1.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 2",
+      "file": "movies_part_2.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 3",
+      "file": "movies_part_3.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 4",
+      "file": "movies_part_4.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 5",
+      "file": "movies_part_5.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 6",
+      "file": "movies_part_6.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 7",
+      "file": "movies_part_7.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 8",
+      "file": "movies_part_8.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 9",
+      "file": "movies_part_9.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 10",
+      "file": "movies_part_10.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 11",
+      "file": "movies_part_11.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 12",
+      "file": "movies_part_12.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 13",
+      "file": "movies_part_13.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Movies Part 14",
+      "file": "movies_part_14.m3u",
+      "count": 297
+    },
+    {
+      "name": "Series Part 1",
+      "file": "series_part_1.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Series Part 2",
+      "file": "series_part_2.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Series Part 3",
+      "file": "series_part_3.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Series Part 4",
+      "file": "series_part_4.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Series Part 5",
+      "file": "series_part_5.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Series Part 6",
+      "file": "series_part_6.m3u",
+      "count": 1500
+    },
+    {
+      "name": "Series Part 7",
+      "file": "series_part_7.m3u",
+      "count": 59
+    },
+    {
+      "name": "Anime Part 1",
+      "file": "anime_part_1.m3u",
+      "count": 494
+    },
+    {
+      "name": "Shows Part 1",
+      "file": "shows_part_1.m3u",
+      "count": 79
+    }
+  ]
+}
